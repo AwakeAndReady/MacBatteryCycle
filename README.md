@@ -1,6 +1,6 @@
 # MacBatteryCycle (Prototype)
 
-This script automates the process of battery management, optimizing battery health by controlling cyclical charging and discharging based on user-defined thresholds. 
+This script (unzip before use)  automates the process of battery management, optimizing battery health by controlling cyclical charging and discharging based on user-defined thresholds. 
 
 It allows to let the Mac's power cable be plugged in all the time. The script monitors the battery level and controls a cyclical charging/discharging based on upper and lower battery level thresholds. This is also a pro-feature ('Sailing Mode') in the Mac-Software ['AlDente'](https://apphousekitchen.com)
 You will be prompted to set upper and lower charging limits as well as to choose if battery will be used as power source wafter upper limit has been reached or not. If not, the battery will not be discharged, and the power adapter will remain as the primary energy source.
